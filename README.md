@@ -1,4 +1,4 @@
-## Obfuscated for solving sudoku puzzles (8 lines of code)!
+## Obfuscated script for solving sudoku puzzles (8 lines of code!)
 
 ## How to use the script
 
@@ -8,7 +8,7 @@
 4) Create virtual environment <br>
     *python -m venv venv*
 5) Activate newly created virtual enviroment (depending on your OS)<br>
-    *source venv/bin/activate*  (Linux)<br>    
+    *source venv/bin/activate*  (Linux)
     *venv\Scripts\activate . *   (Windows)<br>
 6) Install all requirements (it is just numpy btw)<br>
     *pip install -r requirements.txt*
