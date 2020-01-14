@@ -1,11 +1,11 @@
-# Obfuscated for solving sudoku puzzles (8 lines of code)!
+## Obfuscated for solving sudoku puzzles (8 lines of code)!
 
-# How to use the script
+## How to use the script
 
 1) Clone/Download script
 2) Open your terminal
 3) Go to cloned/downloaded script path
-4) Create virtual environment
+4) Create virtual environment <br>
     *python -m venv venv*
 5) Activate newly created virtual enviroment (depending on your OS)
     *source venv/bin/activate*  (Linux)    
