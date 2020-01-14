@@ -1,6 +1,6 @@
-## Obfuscated script for solving sudoku puzzles (8 lines of code!)
+### Obfuscated script for solving sudoku puzzles (8 lines of code!)
 
-## How to use the script
+### How to use the script
 
 1) Clone/Download script
 2) Open your terminal
@@ -21,3 +21,6 @@
     *print(sample1)*
 11) solve and see solved sudoku<br>
     *print(solve(sample1))*
+    
+### How does it work?
+   **WIP**
