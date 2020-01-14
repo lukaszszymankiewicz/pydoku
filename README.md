@@ -8,8 +8,7 @@
 4) Create virtual environment <br>
     *python -m venv venv*
 5) Activate newly created virtual enviroment (depending on your OS)<br>
-    *source venv/bin/activate*  (Linux)
-    *venv\Scripts\activate . *   (Windows)<br>
+    *source venv/bin/activate*  for Linux or *venv\Scripts\activate . * for Windows<br>
 6) Install all requirements (it is just numpy btw)<br>
     *pip install -r requirements.txt*
 7) Enter your python shell<br>
