@@ -7,18 +7,18 @@
 3) Go to cloned/downloaded script path
 4) Create virtual environment <br>
     *python -m venv venv*
-5) Activate newly created virtual enviroment (depending on your OS)
-    *source venv/bin/activate*  (Linux)    
-    *venv\Scripts\activate . *   (Windows)
-6) Install all requirements (it is just numpy btw)
+5) Activate newly created virtual enviroment (depending on your OS)<br>
+    *source venv/bin/activate*  (Linux)<br>    
+    *venv\Scripts\activate . *   (Windows)<br>
+6) Install all requirements (it is just numpy btw)<br>
     *pip install -r requirements.txt*
-7) Enter your python shell
+7) Enter your python shell<br>
     *python*
-8) import solving function
+8) import solving function<br>
     *from obscure import solve*
-9) import some sudoku sample (there are four of them)
+9) import some sudoku sample (there are four of them)<br>
     *from samples import sample1*
-10) see how sudoku looks unsolved
+10) see how sudoku looks unsolved<br>
     *print(sample1)*
-11) solve and see solved sudoku
+11) solve and see solved sudoku<br>
     *print(solve(sample1))*
