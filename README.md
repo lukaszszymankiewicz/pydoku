@@ -23,4 +23,4 @@
     *print(solve(sample1))*
     
 ### How does it work?
-   **WIP**
+   For more detailed and well-written version of this code, please seek here: https://github.com/lukaszszymankiewicz/pydoku_cute/
